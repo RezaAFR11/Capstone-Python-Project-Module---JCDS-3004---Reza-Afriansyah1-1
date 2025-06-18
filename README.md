@@ -52,10 +52,10 @@ MENU UTAMA
 ---
 ## Kontributor
 Proyek ini dikembangkan sebagai bagian dari program pelatihan. Saran dan masukan untuk pengembangan lebih lanjut sangat diterima.
-Nama: Reza Afriansyah
-Kelas: JCDS-3004 Jakarta
-Kegiatan: Capstone Project Module 1 Python
-Mentor: Median Hardiv Nugraha
+- Nama: Reza Afriansyah
+- Kelas: JCDS-3004 Jakarta
+- Kegiatan: Capstone Project Module 1 Python
+- Mentor: Median Hardiv Nugraha
 ---
 ## Catatan
 - Terdapat List Data Dummy didalam Program
